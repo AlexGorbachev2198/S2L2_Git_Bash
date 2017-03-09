@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-
+//changes for commit
 class Football_Player {
     string Surname;
     double Transfer_cost;
